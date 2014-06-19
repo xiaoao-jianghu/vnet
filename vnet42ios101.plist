@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://42.96.176.229:8443/vbookhome/download/vnet42ios101.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://42.96.176.229:8443/vbookhome/download/icon@2x.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://42.96.176.229:8443/vbookhome/download/icon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.jinlou.Vnet</string>
+				<key>bundle-version</key>
+				<string>1.0.012</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>vnetios</string>
+				<key>title</key>
+				<string>Vnet v1.0.1</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
